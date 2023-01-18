@@ -1,0 +1,2 @@
+var str = readLine()
+print (str)
